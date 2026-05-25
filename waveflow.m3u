@@ -12,3 +12,5 @@ https://www.youtube.com/live/rEKifG2XUZg?feature=shared
 http://localhost:18000/resolve/nd-culture.m3u8
 #EXTINF:-1 tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" group-title="WaveFlow" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",宁德新闻综合
 http://localhost:18000/resolve/nd-culture.m3u8
+#EXTINF:-1 tvg-id="德化电视台" tvg-name="德化电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",德化电视台
+http://localhost:18000/resolve/dh-tv

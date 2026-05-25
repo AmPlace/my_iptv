@@ -9,26 +9,46 @@ https://www.youtube.com/watch?v=RuRUCXNAHBU
 #EXTINF:-1 tvg-id="tomandjerry" tvg-name="tomandjerry" group-title="YouTube" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",猫和老鼠YouTube
 https://www.youtube.com/live/rEKifG2XUZg?feature=shared
 #EXTINF:-1 tvg-id="宁德文化旅游" tvg-name="宁德文化旅游" group-title="WaveFlow" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",宁德文化旅游
-http://localhost:18000/resolve/nd-culture.m3u8
-#EXTINF:-1 tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" group-title="WaveFlow" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",宁德新闻综合
-http://localhost:18000/resolve/nd-culture.m3u8
+https://waveflow-resolver.bgm.gs/resolve/nd-culture.m3u8
+#EXTINF:-1 tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/170f1601e0669afb.png",宁德新闻综合
+https://waveflow-resolver.bgm.gs/resolve/nd-news.m3u8
 #EXTINF:-1 tvg-id="德化电视台" tvg-name="德化电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",德化电视台
-http://localhost:18000/resolve/dh-tv.m3u8
-#EXTINF:-1 tvg-id="晋江电视台" tvg-name="晋江电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",晋江电视台
-http://localhost:18000/resolve/jjtv.m3u8
-#EXTINF:-1 tvg-id="石狮电视台" tvg-name="石狮电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",石狮电视台
-http://localhost:18000/resolve/sstv.m3u8
+https://waveflow-resolver.bgm.gs/resolve/dh-tv.m3u8
+#EXTINF:-1 tvg-id="晋江电视台" tvg-name="晋江电视台" group-title="WaveFlow" tvg-logo="https://filestorage.ijjnews.com/file/storage1-cloudlivemanage/cloudlivemanage/2026/1067/0f5007bcbfe40cd8.jpg",晋江电视台
+https://waveflow-resolver.bgm.gs/resolve/jjtv.m3u8
+#EXTINF:-1 tvg-id="石狮电视台" tvg-name="石狮电视台" group-title="WaveFlow" tvg-logo="https://filestorage-new.chinashishi.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/492/ffcad1b91c65f4f6.jpg",石狮电视台
+https://waveflow-resolver.bgm.gs/resolve/sstv.m3u8
 #EXTINF:-1 tvg-id="永春电视台" tvg-name="永春电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",永春电视台
-http://localhost:18000/resolve/yongchuntv.m3u8
-#EXTINF:-1 tvg-id="福建综合频道" tvg-name="福建综合频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建综合频道
-http://localhost:18000/resolve/fjzhpd.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",东南卫视
-http://localhost:18000/resolve/fjdnws.m3u8
-#EXTINF:-1 tvg-id="福建新闻频道" tvg-name="福建新闻频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建新闻频道
-http://localhost:18000/resolve/fjnews.m3u8
-#EXTINF:-1 tvg-id="福建文旅体育频道" tvg-name="福建文旅体育频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建文旅体育频道
-http://localhost:18000/resolve/fjculture.m3u8
-#EXTINF:-1 tvg-id="福建少儿频道" tvg-name="福建少儿频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建少儿频道
-http://localhost:18000/resolve/fjkid.m3u8
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",海峡卫视
-http://localhost:18000/resolve/fjhxws.m3u8
+https://waveflow-resolver.bgm.gs/resolve/yongchuntv.m3u8
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/3363c3e049251201.png",福建综合
+https://waveflow-resolver.bgm.gs/resolve/fjzhpd.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/f911875b2d152618.jpg",东南卫视
+https://waveflow-resolver.bgm.gs/resolve/fjdnws.m3u8
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/8f91d4f9f22e1a11.png",福建新闻
+https://waveflow-resolver.bgm.gs/resolve/fjnews.m3u8
+#EXTINF:-1 tvg-id="福建文旅体育" tvg-name="福建文旅体育" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/2d7bc7df58f52d7d.png",福建文旅体育
+https://waveflow-resolver.bgm.gs/resolve/fjculture.m3u8
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/41f9f7cbec6e0f0e.png",福建少儿
+https://waveflow-resolver.bgm.gs/resolve/fjkid.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/9fd4f4cdb0e9f5e2.png",海峡卫视
+https://waveflow-resolver.bgm.gs/resolve/fjhxws.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/0ec5bd114f9de984.png",厦门卫视
+https://waveflow-resolver.bgm.gs/resolve/xmws.m3u8
+#EXTINF:-1 tvg-id="福州新闻综合频道" tvg-name="福州新闻综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/a75a1736cd13ec99.png",福州新闻综合频道
+https://waveflow-resolver.bgm.gs/resolve/fznews.m3u8
+#EXTINF:-1 tvg-id="漳州新闻综合频道" tvg-name="漳州新闻综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/2e4ba9035fadb64f.jpg",漳州新闻综合频道
+https://waveflow-resolver.bgm.gs/resolve/zznews.m3u8
+#EXTINF:-1 tvg-id="三明综合频道" tvg-name="三明综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/7aaf66de125d0491.jpg",三明综合频道
+https://waveflow-resolver.bgm.gs/resolve/smtv.m3u8
+#EXTINF:-1 tvg-id="泉州新闻综合频道" tvg-name="泉州新闻综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/7d2d64eedc90ea81.jpg",泉州新闻综合频道
+https://waveflow-resolver.bgm.gs/resolve/qznews.m3u8
+#EXTINF:-1 tvg-id="南平综合频道" tvg-name="南平综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/b66a58f42f35612e.png",南平综合频道
+https://waveflow-resolver.bgm.gs/resolve/nptv.m3u8
+#EXTINF:-1 tvg-id="龙岩综合频道" tvg-name="龙岩综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/fcd95f182f8d8169.jpg",龙岩综合频道
+https://waveflow-resolver.bgm.gs/resolve/lytv.m3u8
+#EXTINF:-1 tvg-id="莆田新闻综合频道" tvg-name="莆田新闻综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2025/468/22630b365a754507.jpg",莆田新闻综合频道
+https://waveflow-resolver.bgm.gs/resolve/puttv.m3u8
+#EXTINF:-1 tvg-id="平潭综合频道" tvg-name="平潭综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/0148d5c3180fd7f7.jpg",平潭综合频道
+https://waveflow-resolver.bgm.gs/resolve/pttv.m3u8
+#EXTINF:-1 tvg-id="宁德新闻综合频道" tvg-name="宁德新闻综合频道" group-title="WaveFlow" tvg-logo="https://fyfile.fjtv.net/file/storage1-cloudlivemanage/cloudlivemanage/2024/468/170f1601e0669afb.png",宁德新闻综合频道
+https://waveflow-resolver.bgm.gs/resolve/ndtv.m3u8

@@ -20,3 +20,15 @@ http://localhost:18000/resolve/jjtv.m3u8
 http://localhost:18000/resolve/sstv.m3u8
 #EXTINF:-1 tvg-id="永春电视台" tvg-name="永春电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",永春电视台
 http://localhost:18000/resolve/yongchuntv.m3u8
+#EXTINF:-1 tvg-id="福建综合频道" tvg-name="福建综合频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建综合频道
+http://localhost:18000/resolve/fjzhpd.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",东南卫视
+http://localhost:18000/resolve/fjdnws.m3u8
+#EXTINF:-1 tvg-id="福建新闻频道" tvg-name="福建新闻频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建新闻频道
+http://localhost:18000/resolve/fjnews.m3u8
+#EXTINF:-1 tvg-id="福建文旅体育频道" tvg-name="福建文旅体育频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建文旅体育频道
+http://localhost:18000/resolve/fjculture.m3u8
+#EXTINF:-1 tvg-id="福建少儿频道" tvg-name="福建少儿频道" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",福建少儿频道
+http://localhost:18000/resolve/fjkid.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",海峡卫视
+http://localhost:18000/resolve/fjhxws.m3u8

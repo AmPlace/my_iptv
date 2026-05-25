@@ -16,3 +16,7 @@ http://localhost:18000/resolve/nd-culture.m3u8
 http://localhost:18000/resolve/dh-tv.m3u8
 #EXTINF:-1 tvg-id="晋江电视台" tvg-name="晋江电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",晋江电视台
 http://localhost:18000/resolve/jjtv.m3u8
+#EXTINF:-1 tvg-id="石狮电视台" tvg-name="石狮电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",石狮电视台
+http://localhost:18000/resolve/sstv.m3u8
+#EXTINF:-1 tvg-id="永春电视台" tvg-name="永春电视台" group-title="WaveFlow" tvg-logo="https://www.dehuanews.cn/templets/default/images/rmtnew/logo_bg.png",永春电视台
+http://localhost:18000/resolve/yongchuntv.m3u8

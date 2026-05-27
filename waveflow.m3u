@@ -1,4 +1,94 @@
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS Youtube" group-title="YouTube" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",TVBS
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVBSNEWS" tvg-name="TVBS NEWS Youtube" group-title="YouTube｜台湾" tvg-logo="",TVBS NEWS
+https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live
+
+#EXTINF:-1 tvg-id="FTVNEWS" tvg-name="民视新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",民视新闻
+https://www.youtube.com/@FTV_News/live
+
+#EXTINF:-1 tvg-id="SETNEWSLIVE" tvg-name="三立新闻 LIVE Youtube" group-title="YouTube｜台湾" tvg-logo="",三立新闻 LIVE
+https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
+
+#EXTINF:-1 tvg-id="SETN" tvg-name="三立新闻网 SETN Youtube" group-title="YouTube｜台湾" tvg-logo="",三立新闻网 SETN
+https://www.youtube.com/channel/UCIU8ha-NHmLjtUwU7dFiXUA/live
+
+#EXTINF:-1 tvg-id="EBCNEWS" tvg-name="东森新闻 CH51 Youtube" group-title="YouTube｜台湾" tvg-logo="",东森新闻
+https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
+
+#EXTINF:-1 tvg-id="TTVNEWS" tvg-name="台视新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",台视新闻
+https://www.youtube.com/@TTVLIVE/live
+
+#EXTINF:-1 tvg-id="CTITV" tvg-name="中天电视 Youtube" group-title="YouTube｜台湾" tvg-logo="",中天电视
+https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+
+#EXTINF:-1 tvg-id="CTINEWS" tvg-name="中天新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",中天新闻
+https://www.youtube.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ/live
+
+#EXTINF:-1 tvg-id="MNEWS" tvg-name="镜新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",镜新闻
+https://www.youtube.com/@mnews-tw/live
+
+#EXTINF:-1 tvg-id="CTVNEWS" tvg-name="中视新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",中视新闻
+https://www.youtube.com/channel/UCO3bfz4KY6zGT5IOaFJuxpA/live
+
+#EXTINF:-1 tvg-id="CTVNEWSLIVE" tvg-name="中视新闻 LIVE Youtube" group-title="YouTube｜台湾" tvg-logo="",中视新闻 LIVE
+https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
+
+#EXTINF:-1 tvg-id="CTSNEWS" tvg-name="华视新闻 CH52 Youtube" group-title="YouTube｜台湾" tvg-logo="",华视新闻
+https://www.youtube.com/channel/UCDCJyLpbfgeVE9iZiEam-Kg/live
+
+#EXTINF:-1 tvg-id="USTV" tvg-name="非凡电视 Youtube" group-title="YouTube｜台湾" tvg-logo="",非凡电视
+https://www.youtube.com/user/ustv/live
+
+#EXTINF:-1 tvg-id="USTVBIZ" tvg-name="非凡商业台 Youtube" group-title="YouTube｜台湾" tvg-logo="",非凡商业台
+https://www.youtube.com/channel/UCLHsQL4YChylDX-06BCuNQA/live
+
+#EXTINF:-1 tvg-id="GLOBALNEWSTW" tvg-name="寰宇新闻 Youtube" group-title="YouTube｜台湾" tvg-logo="",寰宇新闻
+https://www.youtube.com/@globalnewstw/live
+
+#EXTINF:-1 tvg-id="HK01" tvg-name="香港01 Youtube" group-title="YouTube｜香港" tvg-logo="",香港01
+https://www.youtube.com/@01official/live
+
+#EXTINF:-1 tvg-id="RTHK" tvg-name="香港电台 RTHK Youtube" group-title="YouTube｜香港" tvg-logo="",香港电台 RTHK
+https://www.youtube.com/@RTHK/live
+
+#EXTINF:-1 tvg-id="RTHKVNEWS" tvg-name="香港电台视像新闻 RTHK VNEWS Youtube" group-title="YouTube｜香港" tvg-logo="",RTHK VNEWS
+https://www.youtube.com/@rthkvnews/live
+
+#EXTINF:-1 tvg-id="HOYCABLENEWS" tvg-name="HOY 78 × 有线新闻 Youtube" group-title="YouTube｜香港" tvg-logo="",HOY 78 × 有线新闻
+https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w/live
+
+#EXTINF:-1 tvg-id="TVBNEWS" tvg-name="无线新闻 TVB NEWS Youtube" group-title="YouTube｜香港" tvg-logo="",无线新闻 TVB NEWS
+https://www.youtube.com/channel/UC_ifDTtFAcsj-wJ5JfM27CQ/live
+
+#EXTINF:-1 tvg-id="PHOENIXTV" tvg-name="凤凰卫视 Youtube" group-title="YouTube｜香港" tvg-logo="",凤凰卫视
+https://www.youtube.com/@phoenixtvglobal/live
+
+#EXTINF:-1 tvg-id="ONCC" tvg-name="on.cc 东网 Youtube" group-title="YouTube｜香港" tvg-logo="",on.cc 东网
+https://www.youtube.com/@oncc_YT/live
+
+#EXTINF:-1 tvg-id="TDMMACAU" tvg-name="澳广视 MACAU TDM Youtube" group-title="YouTube｜澳门" tvg-logo="",澳广视 MACAU TDM
+https://www.youtube.com/@TDM_MACAU/live
+
+#EXTINF:-1 tvg-id="TDM_PROGRAM" tvg-name="澳广视节目 Youtube" group-title="YouTube｜澳门" tvg-logo="",澳广视节目
+https://www.youtube.com/@澳廣視節目/live
+
+#EXTINF:-1 tvg-id="LOTUSTV" tvg-name="澳门莲花卫视 Youtube" group-title="YouTube｜澳门" tvg-logo="",澳门莲花卫视
+https://www.youtube.com/@callinmacau/live
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Youtube" group-title="YouTube｜大陆" tvg-logo="",CGTN
+https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg/live
+
+#EXTINF:-1 tvg-id="CGTNEUROPE" tvg-name="CGTN Europe Youtube" group-title="YouTube｜大陆" tvg-logo="",CGTN Europe
+https://www.youtube.com/@CGTNEurope/live
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV中文国际 Youtube" group-title="YouTube｜大陆" tvg-logo="",CCTV中文国际
+https://www.youtube.com/user/ChineseInternatioify/live
+
+#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV中国中央电视台 Youtube" group-title="YouTube｜大陆" tvg-logo="",CCTV中国中央电视台
+https://www.youtube.com/channel/UCcLK3j-XWdGBnt5bR9NJHaQ/live
+
+#EXTINF:-1 tvg-id="CCTVPLUS" tvg-name="CCTV Video News Agency Youtube" group-title="YouTube｜大陆" tvg-logo="",CCTV Video News Agency
+https://www.youtube.com/channel/UCmv5DbNpxH8X2eQxJBqEjKQ/live
 https://www.youtube.com/watch?v=o_-hSMgpAzs
 #EXTINF:-1 tvg-id="chengfeng2026" tvg-name="乘风2026 Youtube" group-title="YouTube" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k-0Eo2JQs8c-kMUqmrxsZIsJqC9jSpr-mydLFNrnKbP3Q=s88-c-k-c0x00ffffff-no-rj",乘风2026
 https://www.youtube.com/watch?v=dUlLWMqMIC8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zgzk101" tvg-name="zgzk101" group-title="zgzk" tvg-logo="",101
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/101
+#EXTINF:-1 tvg-id="zgzk201" tvg-name="zgzk201" group-title="zgzk" tvg-logo="",201
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/201
+#EXTINF:-1 tvg-id="zgzk301" tvg-name="zgzk301" group-title="zgzk" tvg-logo="",301
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/301
+#EXTINF:-1 tvg-id="zgzk302" tvg-name="zgzk302" group-title="zgzk" tvg-logo="",302
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/302
+#EXTINF:-1 tvg-id="zgzk401" tvg-name="zgzk401" group-title="zgzk" tvg-logo="",401
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/401
+#EXTINF:-1 tvg-id="zgzk501" tvg-name="zgzk501" group-title="zgzk" tvg-logo="",501
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/501
+#EXTINF:-1 tvg-id="zgzk601" tvg-name="zgzk601" group-title="zgzk" tvg-logo="",601
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/601
+#EXTINF:-1 tvg-id="zgzk701" tvg-name="zgzk701" group-title="zgzk" tvg-logo="",701
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/701
+#EXTINF:-1 tvg-id="zgzk801" tvg-name="zgzk801" group-title="zgzk" tvg-logo="",801
+rtsp://hikvision:ZGZK1929@192.168.0.14:554/Streaming/Channels/801

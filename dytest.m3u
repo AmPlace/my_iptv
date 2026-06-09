@@ -2,7 +2,36 @@
 douyin://53259966675
 #EXTINF:-1 tvg-id="ahaoei" tvg-name="ahaoei" group-title="dytest" tvg-logo="",斗鱼阿豪test
 douyu://7421029
-#EXTINF:-1 tvg-id="ahaoei" tvg-name="ahaoei" group-title="dytest" tvg-logo="",tiktok-test
-tiktok://@fishstick_yt
-#EXTINF:-1 tvg-id="ahaoei" tvg-name="ahaoei" group-title="dytest" tvg-logo="",kuaishou-test
-kuaishou://@DOTA2_PWRD
+#EXTM3U
+#EXTINF:-1 tvg-name="TikTok" group-title="直播",TikTok - 4K SYNTH
+tiktok://@4ksynth
+#EXTINF:-1 tvg-name="快手" group-title="直播",快手 - DOTA2
+kuaishou://DOTA2_PWRD
+#EXTINF:-1 tvg-name="Bilibili" group-title="直播",Bilibili - 云顶丶真白
+bilibili://4980741
+#EXTINF:-1 tvg-name="YY直播" group-title="直播",YY直播 - 超级呵呵Shine
+yy://13739310
+#EXTINF:-1 tvg-name="Bigo" group-title="直播",Bigo - 🍁9号pk7饱饱
+bigo://1072585526
+#EXTINF:-1 tvg-name="SOOP" group-title="直播",SOOP - KBO_Global5
+soop://kboglobal5
+#EXTINF:-1 tvg-name="网易CC" group-title="直播",网易CC - OUG.Mike
+netease://772277
+#EXTINF:-1 tvg-name="猫耳FM" group-title="直播",猫耳FM - 风尘
+maoer://180051616
+#EXTINF:-1 tvg-name="Look" group-title="直播",Look - 团子鲤
+look://256315618
+#EXTINF:-1 tvg-name="FlexTV" group-title="直播",FlexTV - 지아
+flextv://948494
+#EXTINF:-1 tvg-name="PopkonTV" group-title="直播",PopkonTV - ♡퓨어♡
+popkontv://wjfal007
+#EXTINF:-1 tvg-name="TwitCasting" group-title="直播",TwitCasting - DOLLY
+twitcasting://ninjinchan_0u0
+#EXTINF:-1 tvg-name="百度直播" group-title="直播",百度直播 - 比亚迪海洋网
+baidu://11269608773
+#EXTINF:-1 tvg-name="微博直播" group-title="直播",微博直播 - 彬神兔
+weibo://2321325308013841350800
+#EXTINF:-1 tvg-name="酷狗直播" group-title="直播",酷狗直播 - 新人玉玉uu
+kugou://6249760
+#EXTINF:-1 tvg-name="Twitch" group-title="直播",Twitch - 鳥屎
+twitch://scspple7545

@@ -128,3 +128,19 @@ https://hlscdn.liangtv.cn/live/ddb2ee1aa1134ac591230352a121aa22/bc359bd2e13b4cb9
 https://hlscdn.liangtv.cn/live/3f29b81206fe4d229e1522d59aae8e75/15a4a13dbf624ab9ac7cca5df100e985.m3u8
 #EXTINF:-1 group-title="广西",中国教育电视台CETV-4频道
 https://hlscdn.liangtv.cn/live/63f3fd7d8cf44a3e9719eec310c86fa5/b96f8fd6d5424ad4862d054172f616e4.m3u8
+#EXTINF:-1 tvg-id="hbws" tvg-name="河北卫视" group-title="河北广播电视台",河北卫视
+hbtv://hbws
+#EXTINF:-1 tvg-id="hbjjsh" tvg-name="河北经济生活" group-title="河北广播电视台",河北经济生活
+hbtv://hbjjsh
+#EXTINF:-1 tvg-id="hbsn" tvg-name="河北三农频道" group-title="河北广播电视台",河北三农频道
+hbtv://hbsn
+#EXTINF:-1 tvg-id="hbds" tvg-name="河北都市" group-title="河北广播电视台",河北都市
+hbtv://hbds
+#EXTINF:-1 tvg-id="hbysj" tvg-name="河北影视剧" group-title="河北广播电视台",河北影视剧
+hbtv://hbysj
+#EXTINF:-1 tvg-id="hbse" tvg-name="河北少儿科教" group-title="河北广播电视台",河北少儿科教
+hbtv://hbse
+#EXTINF:-1 tvg-id="hbwl" tvg-name="河北文旅·公共" group-title="河北广播电视台",河北文旅·公共
+hbtv://hbwl
+#EXTINF:-1 tvg-id="hbgw" tvg-name="河北三佳购物" group-title="河北广播电视台",河北三佳购物
+hbtv://hbgw

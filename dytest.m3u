@@ -143,7 +143,6 @@ hbtv://hbse
 hbtv://hbwl
 #EXTINF:-1 tvg-id="hbgw" tvg-name="河北三佳购物" group-title="河北广播电视台",河北三佳购物
 hbtv://hbgw
-#EXTM3U
 #EXTINF:-1 tvg-id="nmws" tvg-name="内蒙古卫视" group-title="内蒙古广播电视台",内蒙古卫视
 nmtv://nmws
 #EXTINF:-1 tvg-id="nmmyws" tvg-name="内蒙古蒙古语卫视" group-title="内蒙古广播电视台",内蒙古蒙古语卫视

@@ -143,3 +143,44 @@ hbtv://hbse
 hbtv://hbwl
 #EXTINF:-1 tvg-id="hbgw" tvg-name="河北三佳购物" group-title="河北广播电视台",河北三佳购物
 hbtv://hbgw
+#EXTM3U
+#EXTINF:-1 tvg-id="nmws" tvg-name="内蒙古卫视" group-title="内蒙古广播电视台",内蒙古卫视
+nmtv://nmws
+#EXTINF:-1 tvg-id="nmmyws" tvg-name="内蒙古蒙古语卫视" group-title="内蒙古广播电视台",内蒙古蒙古语卫视
+nmtv://nmmyws
+#EXTINF:-1 tvg-id="nmxwzh" tvg-name="内蒙古新闻综合" group-title="内蒙古广播电视台",内蒙古新闻综合
+nmtv://nmxwzh
+#EXTINF:-1 tvg-id="nmjjsh" tvg-name="内蒙古经济生活" group-title="内蒙古广播电视台",内蒙古经济生活
+nmtv://nmjjsh
+#EXTINF:-1 tvg-id="nmse" tvg-name="内蒙古少儿频道" group-title="内蒙古广播电视台",内蒙古少儿频道
+nmtv://nmse
+#EXTINF:-1 tvg-id="nmwtyl" tvg-name="内蒙古文体娱乐" group-title="内蒙古广播电视台",内蒙古文体娱乐
+nmtv://nmwtyl
+#EXTINF:-1 tvg-id="nmnm" tvg-name="内蒙古农牧频道" group-title="内蒙古广播电视台",内蒙古农牧频道
+nmtv://nmnm
+#EXTINF:-1 tvg-id="nmwh" tvg-name="内蒙古蒙古语文化" group-title="内蒙古广播电视台",内蒙古蒙古语文化
+nmtv://nmwh
+#EXTINF:-1 tvg-id="hhht1" tvg-name="呼和浩特新闻综合" group-title="盟市频道",呼和浩特新闻综合
+nmtv://hhht1
+#EXTINF:-1 tvg-id="xlgl1" tvg-name="锡林郭勒新闻综合" group-title="盟市频道",锡林郭勒新闻综合
+nmtv://xlgl1
+#EXTINF:-1 tvg-id="als1" tvg-name="阿拉善新闻综合" group-title="盟市频道",阿拉善新闻综合
+nmtv://als1
+#EXTINF:-1 tvg-id="byle1" tvg-name="巴彦淖尔新闻综合" group-title="盟市频道",巴彦淖尔新闻综合
+nmtv://byle1
+#EXTINF:-1 tvg-id="erds1" tvg-name="鄂尔多斯新闻综合" group-title="盟市频道",鄂尔多斯新闻综合
+nmtv://erds1
+#EXTINF:-1 tvg-id="cf1" tvg-name="赤峰新闻综合" group-title="盟市频道",赤峰新闻综合
+nmtv://cf1
+#EXTINF:-1 tvg-id="tl1" tvg-name="通辽新闻综合" group-title="盟市频道",通辽新闻综合
+nmtv://tl1
+#EXTINF:-1 tvg-id="wlcb1" tvg-name="乌兰察布新闻综合" group-title="盟市频道",乌兰察布新闻综合
+nmtv://wlcb1
+#EXTINF:-1 tvg-id="wh1" tvg-name="乌海新闻综合" group-title="盟市频道",乌海新闻综合
+nmtv://wh1
+#EXTINF:-1 tvg-id="hlbe1" tvg-name="呼伦贝尔新闻综合" group-title="盟市频道",呼伦贝尔新闻综合
+nmtv://hlbe1
+#EXTINF:-1 tvg-id="xa1" tvg-name="兴安新闻综合" group-title="盟市频道",兴安新闻综合
+nmtv://xa1
+#EXTINF:-1 tvg-id="bt1" tvg-name="包头新闻综合" group-title="盟市频道",包头新闻综合
+nmtv://bt1

@@ -92,3 +92,17 @@ sxbc://am603?type=radio
 sxbc://fm1055?type=radio
 #EXTINF:-1 group-title="陕西广播",秦腔广播 FM101.1
 sxbc://fm1011?type=radio
+#EXTINF:-1 group-title="新疆",新疆卫视
+xjtv://1
+#EXTINF:-1 group-title="新疆",维吾尔语新闻综合频道
+xjtv://3
+#EXTINF:-1 group-title="新疆",哈萨克语新闻综合频道
+xjtv://4
+#EXTINF:-1 group-title="新疆",汉语综艺频道
+xjtv://16
+#EXTINF:-1 group-title="新疆",维吾尔语影视频道
+xjtv://17
+#EXTINF:-1 group-title="新疆",汉语体育健康频道
+xjtv://21
+#EXTINF:-1 group-title="新疆",少儿频道
+xjtv://23

@@ -106,3 +106,25 @@ xjtv://17
 xjtv://21
 #EXTINF:-1 group-title="新疆",少儿频道
 xjtv://23
+#EXTINF:-1 group-title="广西",广西卫视
+https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+#EXTINF:-1 group-title="广西",综艺旅游频道
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 group-title="广西",都市频道
+https://hlscdn.liangtv.cn/live/b8f4e500a4024fd2bf189b46f490359f/b04d249044fb4d0887b88aa9c2cc8f6c.m3u8
+#EXTINF:-1 group-title="广西",影视频道
+https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b.m3u8
+#EXTINF:-1 group-title="广西",新闻频道
+https://hlscdn.liangtv.cn/live/a48635e37ac84afa82c0d0edc4bfabf9/dbc9a18971294257bad7c75b7f3f0c20.m3u8
+#EXTINF:-1 group-title="广西",国际频道
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 group-title="广西",乐思购频道
+https://hlscdn.liangtv.cn/live/2cb851292fd14014a6558343872899e6/0820054f3fcc4ee5b4d17198bd7eddd6.m3u8
+#EXTINF:-1 group-title="广西",移动数字电视频道
+https://hlscdn.liangtv.cn/live/b6cea70bfad24970aaa2256a3c340ad4/0a79a8e5f94641e583d1872ef7bed2bf.m3u8
+#EXTINF:-1 group-title="广西",中国教育电视台CETV-1频道
+https://hlscdn.liangtv.cn/live/ddb2ee1aa1134ac591230352a121aa22/bc359bd2e13b4cb9a3096effa77d1bc0.m3u8
+#EXTINF:-1 group-title="广西",中国教育电视台CETV-2频道
+https://hlscdn.liangtv.cn/live/3f29b81206fe4d229e1522d59aae8e75/15a4a13dbf624ab9ac7cca5df100e985.m3u8
+#EXTINF:-1 group-title="广西",中国教育电视台CETV-4频道
+https://hlscdn.liangtv.cn/live/63f3fd7d8cf44a3e9719eec310c86fa5/b96f8fd6d5424ad4862d054172f616e4.m3u8

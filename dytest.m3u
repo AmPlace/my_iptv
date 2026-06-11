@@ -49,3 +49,17 @@ hnntv://jjpd
 hnntv://ggpd
 #EXTINF:-1 group-title="海南",海南少儿频道
 hnntv://sepd
+#EXTINF:-1 group-title="贵州",贵州卫视
+gzstv://ch01
+#EXTINF:-1 group-title="贵州",公共频道
+gzstv://ch02
+#EXTINF:-1 group-title="贵州",影视文艺频道
+gzstv://ch03
+#EXTINF:-1 group-title="贵州",大众生活频道
+gzstv://ch04
+#EXTINF:-1 group-title="贵州",生态·乡村频道
+gzstv://ch05
+#EXTINF:-1 group-title="贵州",科教健康频道
+gzstv://ch06
+#EXTINF:-1 group-title="贵州",贵州移动电视
+gzstv://ch13

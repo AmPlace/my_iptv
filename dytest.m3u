@@ -60,3 +60,35 @@ gzstv://ch05
 gzstv://ch06
 #EXTINF:-1 group-title="贵州",贵州移动电视
 gzstv://ch13
+#EXTINF:-1 group-title="陕西",陕西卫视
+sxbc://star?type=tv
+#EXTINF:-1 group-title="陕西",农林卫视
+sxbc://nl?type=tv
+#EXTINF:-1 group-title="陕西",新闻资讯
+sxbc://1?type=tv
+#EXTINF:-1 group-title="陕西",都市青春
+sxbc://2?type=tv
+#EXTINF:-1 group-title="陕西",银龄频道
+sxbc://3?type=tv
+#EXTINF:-1 group-title="陕西",秦腔频道
+sxbc://5?type=tv
+#EXTINF:-1 group-title="陕西",体育休闲
+sxbc://7?type=tv
+#EXTINF:-1 group-title="陕西",移动电视
+sxbc://11?type=tv
+#EXTINF:-1 group-title="陕西广播",新闻广播 FM106.6
+sxbc://fm1066?type=radio
+#EXTINF:-1 group-title="陕西广播",经济广播-汽车调频 FM89.6
+sxbc://fm896?type=radio
+#EXTINF:-1 group-title="陕西广播",交通广播 FM91.6
+sxbc://fm916?type=radio
+#EXTINF:-1 group-title="陕西广播",音乐广播 FM98.8
+sxbc://fm988?type=radio
+#EXTINF:-1 group-title="陕西广播",农村广播 AM900
+sxbc://am900?type=radio
+#EXTINF:-1 group-title="陕西广播",故事广播 FM87.8
+sxbc://am603?type=radio
+#EXTINF:-1 group-title="陕西广播",青少广播 FM105.5
+sxbc://fm1055?type=radio
+#EXTINF:-1 group-title="陕西广播",秦腔广播 FM101.1
+sxbc://fm1011?type=radio

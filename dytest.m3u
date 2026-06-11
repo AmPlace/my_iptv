@@ -183,3 +183,19 @@ nmtv://hlbe1
 nmtv://xa1
 #EXTINF:-1 tvg-id="bt1" tvg-name="包头新闻综合" group-title="盟市频道",包头新闻综合
 nmtv://bt1
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视" group-title="看看新闻",东方卫视
+kankan://dfws
+#EXTINF:-1 tvg-id="xwzh" tvg-name="新闻综合" group-title="看看新闻",新闻综合
+kankan://xwzh
+#EXTINF:-1 tvg-id="dspd" tvg-name="都市频道" group-title="看看新闻",都市频道
+kankan://dspd
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" group-title="看看新闻",第一财经
+kankan://dycj
+#EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" group-title="看看新闻",哈哈炫动
+kankan://hhxd
+#EXTINF:-1 tvg-id="wxty" tvg-name="五星体育" group-title="看看新闻",五星体育
+kankan://wxty
+#EXTINF:-1 tvg-id="mde" tvg-name="魔都眼" group-title="看看新闻",魔都眼
+kankan://mde
+#EXTINF:-1 tvg-id="xjs" tvg-name="新纪实" group-title="看看新闻",新纪实
+kankan://xjs

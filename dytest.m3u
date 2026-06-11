@@ -35,3 +35,17 @@ weibo://2321325308013841350800
 kugou://6249760
 #EXTINF:-1 tvg-name="Twitch" group-title="直播",Twitch - 鳥屎
 twitch://scspple7545
+#EXTINF:-1 group-title="海南",海南卫视
+hnntv://hnws
+#EXTINF:-1 group-title="海南",三沙卫视
+hnntv://ssws
+#EXTINF:-1 group-title="海南",海南新闻频道
+hnntv://xwpd
+#EXTINF:-1 group-title="海南",海南文旅频道
+hnntv://wlpd
+#EXTINF:-1 group-title="海南",海南自贸频道
+hnntv://jjpd
+#EXTINF:-1 group-title="海南",海南公共频道
+hnntv://ggpd
+#EXTINF:-1 group-title="海南",海南少儿频道
+hnntv://sepd

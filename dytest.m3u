@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ziqi" tvg-name="ziqidouyin" group-title="dytest" tvg-logo="",ziqiasmr
-douyin://53259966675
-#EXTINF:-1 tvg-id="ahaoei" tvg-name="ahaoei" group-title="dytest" tvg-logo="",斗鱼阿豪test
-douyu://7421029
 #EXTINF:-1 tvg-name="TikTok" group-title="直播",TikTok - 4K SYNTH
 tiktok://@4ksynth
 #EXTINF:-1 tvg-name="快手" group-title="直播",快手 - DOTA2

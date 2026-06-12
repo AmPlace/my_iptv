@@ -1,0 +1,492 @@
+#EXTM3U
+# 山东省级
+#EXTINF:-1 group-title="山东省级",山东卫视
+sdtv://sdws
+#EXTINF:-1 group-title="山东省级",山东齐鲁
+sdtv://sdql
+#EXTINF:-1 group-title="山东省级",山东新闻
+sdtv://sdxw
+#EXTINF:-1 group-title="山东省级",山东体育休闲
+sdtv://sdty
+#EXTINF:-1 group-title="山东省级",山东生活
+sdtv://sdsh
+#EXTINF:-1 group-title="山东省级",山东综艺
+sdtv://sdzy
+#EXTINF:-1 group-title="山东省级",山东农科
+sdtv://sdnk
+#EXTINF:-1 group-title="山东省级",山东文旅
+sdtv://sdwl
+#EXTINF:-1 group-title="山东省级",山东少儿
+sdtv://sdse
+
+# 山东区县
+#EXTINF:-1 group-title="山东",济南长清新闻
+sdly://jncqxw
+#EXTINF:-1 group-title="山东",济南长清生活
+sdly://jncqsh
+#EXTINF:-1 group-title="山东",济南济铁电视台
+sdly://jnjrtv
+#EXTINF:-1 group-title="山东",济南济阳综合
+sdly://jnjyzh
+#EXTINF:-1 group-title="山东",济南济阳影视
+sdly://jnjyys
+#EXTINF:-1 group-title="山东",济南历城新闻综合
+sdly://jnlcxw
+#EXTINF:-1 group-title="山东",济南平阴综合
+sdly://jnpyzh
+#EXTINF:-1 group-title="山东",济南平阴乡村振兴
+sdly://jnpyxc
+#EXTINF:-1 group-title="山东",济南商河综合
+sdly://jnshzh
+#EXTINF:-1 group-title="山东",济南商河影视
+sdly://jnshys
+#EXTINF:-1 group-title="山东",济南章丘综合
+sdly://jnzqzh
+#EXTINF:-1 group-title="山东",济南章丘公共
+sdly://jnzqgg
+#EXTINF:-1 group-title="山东",东营新闻综合
+sdly://dyxwzh
+#EXTINF:-1 group-title="山东",东营公共
+sdly://dygg
+#EXTINF:-1 group-title="山东",东营公共2
+sdly://dygg2
+#EXTINF:-1 group-title="山东",东营科教
+sdly://dykj
+#EXTINF:-1 group-title="山东",东营区新闻综合
+sdly://dydyqxw
+#EXTINF:-1 group-title="山东",东营区科教影视
+sdly://dydyqkj
+#EXTINF:-1 group-title="山东",广饶综合
+sdly://dygrzh
+#EXTINF:-1 group-title="山东",广饶科教文艺
+sdly://dygrkj
+#EXTINF:-1 group-title="山东",垦利新闻综合
+sdly://dyklxw
+#EXTINF:-1 group-title="山东",利津综合
+sdly://dyljzh
+#EXTINF:-1 group-title="山东",利津文化生活
+sdly://dyljwh
+#EXTINF:-1 group-title="山东",青岛城阳综合
+sdly://qdcyzh
+#EXTINF:-1 group-title="山东",青岛黄岛综合
+sdly://qdhdzh
+#EXTINF:-1 group-title="山东",青岛黄岛生活
+sdly://qdhdsh
+#EXTINF:-1 group-title="山东",青岛即墨综合
+sdly://qdjmzh
+#EXTINF:-1 group-title="山东",青岛即墨生活服务
+sdly://qdjmsh
+#EXTINF:-1 group-title="山东",青岛胶州综合
+sdly://qdjzzh
+#EXTINF:-1 group-title="山东",青岛胶州生活
+sdly://qdjzsh
+#EXTINF:-1 group-title="山东",青岛李沧TV
+sdly://qdlc
+#EXTINF:-1 group-title="山东",青岛崂山TV
+sdly://qdls
+#EXTINF:-1 group-title="山东",青岛莱西综合
+sdly://qdlxzh
+#EXTINF:-1 group-title="山东",青岛莱西生活
+sdly://qdlxsh
+#EXTINF:-1 group-title="山东",平度新闻综合
+sdly://qdpdxw
+#EXTINF:-1 group-title="山东",平度生活服务
+sdly://qdpdsh
+#EXTINF:-1 group-title="山东",潍坊新闻综合
+sdly://wfxwzh
+#EXTINF:-1 group-title="山东",潍坊生活
+sdly://wfsh
+#EXTINF:-1 group-title="山东",潍坊影视综艺
+sdly://wfyswy
+#EXTINF:-1 group-title="山东",潍坊科教文旅
+sdly://wfkjwl
+#EXTINF:-1 group-title="山东",潍坊高新区
+sdly://wfgxq
+#EXTINF:-1 group-title="山东",安丘综合
+sdly://wfaqzh
+#EXTINF:-1 group-title="山东",安丘民生
+sdly://wfaqms
+#EXTINF:-1 group-title="山东",滨海新闻综合
+sdly://wfbhxw
+#EXTINF:-1 group-title="山东",昌乐综合
+sdly://wfclzh
+#EXTINF:-1 group-title="山东",昌邑综合
+sdly://wfcyzh
+#EXTINF:-1 group-title="山东",昌邑经济生活
+sdly://wfcyjj
+#EXTINF:-1 group-title="山东",坊子新闻综合
+sdly://wffzxw
+#EXTINF:-1 group-title="山东",高密综合
+sdly://wfgmzh
+#EXTINF:-1 group-title="山东",高密党建农科
+sdly://wfgmdj
+#EXTINF:-1 group-title="山东",寒亭新闻
+sdly://wfhtxw
+#EXTINF:-1 group-title="山东",奎文电视台
+sdly://wfkwtv
+#EXTINF:-1 group-title="山东",临朐新闻综合
+sdly://wflqxw
+#EXTINF:-1 group-title="山东",青州综合
+sdly://wfqzzh
+#EXTINF:-1 group-title="山东",青州文化旅游
+sdly://wfqzwh
+#EXTINF:-1 group-title="山东",潍城TV
+sdly://wfwc
+#EXTINF:-1 group-title="山东",诸城新闻综合
+sdly://wfzcxw
+#EXTINF:-1 group-title="山东",诸城生活娱乐
+sdly://wfzcsh
+#EXTINF:-1 group-title="山东",烟台长岛TV
+sdly://ytcd
+#EXTINF:-1 group-title="山东",烟台福山综合
+sdly://ytfszh
+#EXTINF:-1 group-title="山东",烟台福山生活
+sdly://ytfssh
+#EXTINF:-1 group-title="山东",海阳综合
+sdly://ythyzh
+#EXTINF:-1 group-title="山东",龙口综合
+sdly://ytlkzh
+#EXTINF:-1 group-title="山东",龙口生活
+sdly://ytlksh
+#EXTINF:-1 group-title="山东",莱山综合
+sdly://ytlszh
+#EXTINF:-1 group-title="山东",莱山影视
+sdly://ytlsys
+#EXTINF:-1 group-title="山东",莱阳综合
+sdly://ytlyzh
+#EXTINF:-1 group-title="山东",莱阳民生综艺
+sdly://ytlyms
+#EXTINF:-1 group-title="山东",莱州综合
+sdly://ytlzzh
+#EXTINF:-1 group-title="山东",牟平综合
+sdly://ytmpzh
+#EXTINF:-1 group-title="山东",蓬莱综合
+sdly://ytplzh
+#EXTINF:-1 group-title="山东",蓬莱综艺
+sdly://ytplzy
+#EXTINF:-1 group-title="山东",栖霞综合
+sdly://ytqxzh
+#EXTINF:-1 group-title="山东",栖霞苹果
+sdly://ytqxpg
+#EXTINF:-1 group-title="山东",招远综合
+sdly://ytzyzh
+#EXTINF:-1 group-title="山东",招远综艺
+sdly://ytzyzy
+#EXTINF:-1 group-title="山东",淄博博山新闻
+sdly://zbbsxw
+#EXTINF:-1 group-title="山东",淄博博山图文
+sdly://zbbstw
+#EXTINF:-1 group-title="山东",高青综合
+sdly://zbgqzh
+#EXTINF:-1 group-title="山东",高青影视
+sdly://zbgqys
+#EXTINF:-1 group-title="山东",桓台综合
+sdly://zbht1
+#EXTINF:-1 group-title="山东",桓台影视
+sdly://zbht2
+#EXTINF:-1 group-title="山东",临淄新闻综合
+sdly://zblzxw
+#EXTINF:-1 group-title="山东",临淄生活服务
+sdly://zblzsh
+#EXTINF:-1 group-title="山东",沂源综合
+sdly://zbyyzh
+#EXTINF:-1 group-title="山东",沂源生活
+sdly://zbyysh
+#EXTINF:-1 group-title="山东",淄川新闻
+sdly://zbzcxw
+#EXTINF:-1 group-title="山东",淄川生活
+sdly://zbzcsh
+#EXTINF:-1 group-title="山东",张店综合
+sdly://zbzd1
+#EXTINF:-1 group-title="山东",张店2
+sdly://zbzd2
+#EXTINF:-1 group-title="山东",周村新闻
+sdly://zbzctv1
+#EXTINF:-1 group-title="山东",周村生活
+sdly://zbzctv2
+#EXTINF:-1 group-title="山东",山亭综合
+sdly://zzstzh
+#EXTINF:-1 group-title="山东",枣庄市中综合
+sdly://zzszzh
+#EXTINF:-1 group-title="山东",台儿庄新闻综合
+sdly://zztezxw
+#EXTINF:-1 group-title="山东",滕州综合
+sdly://zztzzh
+#EXTINF:-1 group-title="山东",滕州民生
+sdly://zztzms
+#EXTINF:-1 group-title="山东",薛城新闻综合
+sdly://zzxcxw
+#EXTINF:-1 group-title="山东",峄城综合
+sdly://zzyczh
+#EXTINF:-1 group-title="山东",滨城TV
+sdly://bzbctv
+#EXTINF:-1 group-title="山东",博兴综合
+sdly://bzbxzh
+#EXTINF:-1 group-title="山东",博兴生活
+sdly://bzbxsh
+#EXTINF:-1 group-title="山东",惠民综合
+sdly://bzhmzh
+#EXTINF:-1 group-title="山东",惠民影视
+sdly://bzhmys
+#EXTINF:-1 group-title="山东",无棣综合
+sdly://bzwdzh
+#EXTINF:-1 group-title="山东",无棣综艺
+sdly://bzwdzy
+#EXTINF:-1 group-title="山东",阳信新闻综合
+sdly://bzyxxw
+#EXTINF:-1 group-title="山东",沾化综合
+sdly://bzzhzh
+#EXTINF:-1 group-title="山东",沾化综艺
+sdly://bzzhzy
+#EXTINF:-1 group-title="山东",邹平综合
+sdly://bzzpzh
+#EXTINF:-1 group-title="山东",邹平民生
+sdly://bzzpms
+#EXTINF:-1 group-title="山东",德州新闻综合
+sdly://dzxwzh
+#EXTINF:-1 group-title="山东",德州经济生活
+sdly://dzjjsh
+#EXTINF:-1 group-title="山东",德州图文
+sdly://dztw
+#EXTINF:-1 group-title="山东",陵城综合
+sdly://dzlczh
+#EXTINF:-1 group-title="山东",乐陵新闻综合
+sdly://dzllxw
+#EXTINF:-1 group-title="山东",乐陵城市生活
+sdly://dzllcs
+#EXTINF:-1 group-title="山东",临邑1
+sdly://dzly1
+#EXTINF:-1 group-title="山东",临邑2
+sdly://dzly2
+#EXTINF:-1 group-title="山东",宁津综合
+sdly://dznjzh
+#EXTINF:-1 group-title="山东",平原综合
+sdly://dzpyzh
+#EXTINF:-1 group-title="山东",齐河综合
+sdly://dzqhzh
+#EXTINF:-1 group-title="山东",庆云综合
+sdly://dzqyzh
+#EXTINF:-1 group-title="山东",庆云生活
+sdly://dzqysh
+#EXTINF:-1 group-title="山东",武城综合
+sdly://dzwczh
+#EXTINF:-1 group-title="山东",武城综艺影视
+sdly://dzwczy
+#EXTINF:-1 group-title="山东",夏津综合
+sdly://dzxjzh
+#EXTINF:-1 group-title="山东",夏津公共
+sdly://dzxjgg
+#EXTINF:-1 group-title="山东",禹城综合
+sdly://dzyczh
+#EXTINF:-1 group-title="山东",禹城综艺
+sdly://dzyczy
+#EXTINF:-1 group-title="山东",成武综合
+sdly://hzcwzh
+#EXTINF:-1 group-title="山东",成武综艺
+sdly://hzcwzy
+#EXTINF:-1 group-title="山东",曹县综合
+sdly://hzcxzh
+#EXTINF:-1 group-title="山东",东明新闻综合
+sdly://hzdmxw
+#EXTINF:-1 group-title="山东",定陶新闻
+sdly://hzdt1
+#EXTINF:-1 group-title="山东",定陶综艺
+sdly://hzdt2
+#EXTINF:-1 group-title="山东",鄄城综合
+sdly://hzjczh
+#EXTINF:-1 group-title="山东",巨野新闻
+sdly://hzjyxw
+#EXTINF:-1 group-title="山东",牡丹区新闻综合
+sdly://hzmdxw
+#EXTINF:-1 group-title="山东",牡丹区综艺
+sdly://hzmdzy
+#EXTINF:-1 group-title="山东",单县综合
+sdly://hzsxzh
+#EXTINF:-1 group-title="山东",郓城新闻
+sdly://hzycxw
+#EXTINF:-1 group-title="山东",郓城综艺
+sdly://hzyczy
+#EXTINF:-1 group-title="山东",嘉祥综合
+sdly://jijiazh
+#EXTINF:-1 group-title="山东",嘉祥生活
+sdly://jijiash
+#EXTINF:-1 group-title="山东",金乡综合
+sdly://jijxzh
+#EXTINF:-1 group-title="山东",金乡生活
+sdly://jijxsh
+#EXTINF:-1 group-title="山东",梁山综合
+sdly://jilszh
+#EXTINF:-1 group-title="山东",曲阜新闻综合
+sdly://jiqfxw
+#EXTINF:-1 group-title="山东",任城新闻综合
+sdly://jircxw
+#EXTINF:-1 group-title="山东",任城影视娱乐
+sdly://jircys
+#EXTINF:-1 group-title="山东",泗水新闻综合
+sdly://jissxw
+#EXTINF:-1 group-title="山东",泗水文化生活
+sdly://jisswh
+#EXTINF:-1 group-title="山东",微山综合
+sdly://jiws1
+#EXTINF:-1 group-title="山东",微山2套
+sdly://jiws2
+#EXTINF:-1 group-title="山东",汶上综合
+sdly://jiwszh
+#EXTINF:-1 group-title="山东",鱼台新闻
+sdly://jiytxw
+#EXTINF:-1 group-title="山东",鱼台生活
+sdly://jiytsh
+#EXTINF:-1 group-title="山东",兖州新闻
+sdly://jiyzxw
+#EXTINF:-1 group-title="山东",兖州生活
+sdly://jiyzsh
+#EXTINF:-1 group-title="山东",邹城综合
+sdly://jizczh
+#EXTINF:-1 group-title="山东",邹城文化生活
+sdly://jizcwh
+#EXTINF:-1 group-title="山东",茌平综合
+sdly://lccpzh
+#EXTINF:-1 group-title="山东",茌平生活
+sdly://lccpsh
+#EXTINF:-1 group-title="山东",东昌综合
+sdly://lcdczh
+#EXTINF:-1 group-title="山东",东阿综合
+sdly://lcdezh
+#EXTINF:-1 group-title="山东",东阿综艺
+sdly://lcdezy
+#EXTINF:-1 group-title="山东",高唐综合
+sdly://lcgtzh
+#EXTINF:-1 group-title="山东",高唐综艺
+sdly://lcgtzy
+#EXTINF:-1 group-title="山东",冠县综合
+sdly://lcgxzh
+#EXTINF:-1 group-title="山东",临清综合
+sdly://lclqzh
+#EXTINF:-1 group-title="山东",临清经济信息
+sdly://lclqjj
+#EXTINF:-1 group-title="山东",莘县综合
+sdly://lcsxzh
+#EXTINF:-1 group-title="山东",莘县生活
+sdly://lcsxsh
+#EXTINF:-1 group-title="山东",阳谷综合
+sdly://lcygzh
+#EXTINF:-1 group-title="山东",阳谷影视
+sdly://lcygys
+#EXTINF:-1 group-title="山东",费县综合
+sdly://lyfxzh
+#EXTINF:-1 group-title="山东",费县生活
+sdly://lyfxsh
+#EXTINF:-1 group-title="山东",河东影视
+sdly://lyhdys
+#EXTINF:-1 group-title="山东",河东综合
+sdly://lyhdzh
+#EXTINF:-1 group-title="山东",莒南综合
+sdly://lyjnzh
+#EXTINF:-1 group-title="山东",莒南影视
+sdly://lyjnys
+#EXTINF:-1 group-title="山东",兰陵综合
+sdly://lyllzh
+#EXTINF:-1 group-title="山东",兰陵公共
+sdly://lyllgg
+#EXTINF:-1 group-title="山东",兰山综合
+sdly://lylszh
+#EXTINF:-1 group-title="山东",临沭综合
+sdly://lyls1
+#EXTINF:-1 group-title="山东",临沭生活
+sdly://lyls2
+#EXTINF:-1 group-title="山东",罗庄综合
+sdly://lylzzh
+#EXTINF:-1 group-title="山东",罗庄影视
+sdly://lylzys
+#EXTINF:-1 group-title="山东",蒙阴综合
+sdly://lymy1
+#EXTINF:-1 group-title="山东",蒙阴2套
+sdly://lymy2
+#EXTINF:-1 group-title="山东",平邑综合
+sdly://lypyzh
+#EXTINF:-1 group-title="山东",平邑生活
+sdly://lypysh
+#EXTINF:-1 group-title="山东",郯城综合
+sdly://lytc1
+#EXTINF:-1 group-title="山东",郯城2套
+sdly://lytc2
+#EXTINF:-1 group-title="山东",沂南综合
+sdly://lyynzh
+#EXTINF:-1 group-title="山东",沂南红色影视
+sdly://lyynys
+#EXTINF:-1 group-title="山东",沂水综合
+sdly://lyys1
+#EXTINF:-1 group-title="山东",沂水生活
+sdly://lyys2
+#EXTINF:-1 group-title="山东",莒县综合
+sdly://rzjx1
+#EXTINF:-1 group-title="山东",莒县2套
+sdly://rzjx2
+#EXTINF:-1 group-title="山东",岚山TV
+sdly://rzls
+#EXTINF:-1 group-title="山东",五莲综合
+sdly://rzwlzh
+#EXTINF:-1 group-title="山东",五莲文化旅游
+sdly://rzwlwh
+#EXTINF:-1 group-title="山东",东平综合
+sdly://tadpzh
+#EXTINF:-1 group-title="山东",东平民生
+sdly://tadpms
+#EXTINF:-1 group-title="山东",岱岳TV
+sdly://tady
+#EXTINF:-1 group-title="山东",肥城综合
+sdly://tafczh
+#EXTINF:-1 group-title="山东",肥城生活
+sdly://tafcsh
+#EXTINF:-1 group-title="山东",宁阳综合
+sdly://tany1
+#EXTINF:-1 group-title="山东",宁阳2套
+sdly://tany2
+#EXTINF:-1 group-title="山东",泰山TV
+sdly://tats
+#EXTINF:-1 group-title="山东",新泰综合
+sdly://taxtzh
+#EXTINF:-1 group-title="山东",新泰乡村
+sdly://taxtxc
+#EXTINF:-1 group-title="山东",威海新闻综合
+sdly://whxwzh
+#EXTINF:-1 group-title="山东",威海都市生活
+sdly://whdssh
+#EXTINF:-1 group-title="山东",威海海洋
+sdly://whhy
+#EXTINF:-1 group-title="山东",威海环翠综合
+sdly://whhczh
+#EXTINF:-1 group-title="山东",荣成综合
+sdly://whrczh
+#EXTINF:-1 group-title="山东",荣成生活
+sdly://whrcsh
+#EXTINF:-1 group-title="山东",乳山综合
+sdly://whrszh
+#EXTINF:-1 group-title="山东",乳山生活
+sdly://whrssh
+#EXTINF:-1 group-title="山东",文登TV1
+sdly://whwd1
+#EXTINF:-1 group-title="山东",文登TV2
+sdly://whwd2
+#EXTINF:-1 group-title="山东",临沂综合
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 group-title="山东",临沂经济
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 group-title="山东",临沂公共
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 group-title="山东",临沂经济广播
+https://m3u8-channel.lytv.tv/nmip-media/audiolive/audio122068/playlist.m3u8
+#EXTINF:-1 group-title="山东",临沂交通旅游广播
+https://m3u8-channel.lytv.tv/nmip-media/audiolive/audio120987/playlist.m3u8
+#EXTINF:-1 group-title="山东",山东教育
+http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+# 烟台市级候选，频道名未确认
+#EXTINF:-1 group-title="山东",烟台市级候选1
+http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
+#EXTINF:-1 group-title="山东",烟台市级候选2
+http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a-1.m3u8
+# 菏泽市级
+#EXTINF:-1 group-title="山东",菏泽1
+http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东",菏泽2
+http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8

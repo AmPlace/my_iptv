@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTGRP:河南卫视/省台
 #EXTINF:-1 tvg-id="hnws" group-title="河南",河南卫视
 hntv://hnws
 
@@ -52,7 +50,6 @@ hntv://xsj
 #EXTINF:-1 tvg-id="gxpd" group-title="河南",国学频道
 hntv://gxpd
 
-#EXTGRP:河南
 #EXTINF:-1 tvg-id="zz1" group-title="河南",郑州新闻综合
 hntv://zz1
 

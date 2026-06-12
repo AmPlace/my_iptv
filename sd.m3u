@@ -490,3 +490,23 @@ http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95
 http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="山东",菏泽2
 http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东",寿光综合频道
+sdly://sgzh
+#EXTINF:-1 group-title="山东",寿光蔬菜频道
+sdly://sgsc
+#EXTINF:-1 group-title="山东",胶州新闻
+sdly://jzxw
+#EXTINF:-1 group-title="山东",胶州综合
+sdly://jzzh
+#EXTINF:-1 group-title="山东",胶州娱乐
+sdly://jzyl
+#EXTINF:-1 group-title="山东",德州新闻综合(备用)
+sdly://dzxwzh2
+#EXTINF:-1 group-title="山东",德州经济生活(备用)
+sdly://dzjjsh2
+#EXTINF:-1 group-title="山东",德州图文(备用)
+sdly://dztw2
+#EXTINF:-1 group-title="山东",黄岛生活
+sdly://hdsh
+#EXTINF:-1 group-title="山东",黄岛综合
+sdly://hdzh

@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTGRP:河南卫视/省台
+#EXTINF:-1 tvg-id="hnws" group-title="河南",河南卫视
+hntv://hnws
+
+#EXTINF:-1 tvg-id="hnds" group-title="河南",河南都市
+hntv://hnds
+
+#EXTINF:-1 tvg-id="hnms" group-title="河南",河南民生
+hntv://hnms
+
+#EXTINF:-1 tvg-id="hmfz" group-title="河南",河南法治
+hntv://hmfz
+
+#EXTINF:-1 tvg-id="hndsj" group-title="河南",河南电视剧
+hntv://hndsj
+
+#EXTINF:-1 tvg-id="hnxw" group-title="河南",河南新闻
+hntv://hnxw
+
+#EXTINF:-1 tvg-id="htgw" group-title="河南",欢腾购物
+hntv://htgw
+
+#EXTINF:-1 tvg-id="hngg" group-title="河南",河南公共
+hntv://hngg
+
+#EXTINF:-1 tvg-id="hnxc" group-title="河南",河南乡村
+hntv://hnxc
+
+#EXTINF:-1 tvg-id="hngj" group-title="河南",河南国际
+hntv://hngj
+
+#EXTINF:-1 tvg-id="hnly" group-title="河南",河南梨园
+hntv://hnly
+
+#EXTINF:-1 tvg-id="wwbk" group-title="河南",文物宝库
+hntv://wwbk
+
+#EXTINF:-1 tvg-id="wspd" group-title="河南",武术世界
+hntv://wspd
+
+#EXTINF:-1 tvg-id="jczy" group-title="河南",睛彩中原
+hntv://jczy
+
+#EXTINF:-1 tvg-id="ydxj" group-title="河南",移动戏曲
+hntv://ydxj
+
+#EXTINF:-1 tvg-id="xsj" group-title="河南",象视界
+hntv://xsj
+
+#EXTINF:-1 tvg-id="gxpd" group-title="河南",国学频道
+hntv://gxpd
+
+#EXTGRP:河南
+#EXTINF:-1 tvg-id="zz1" group-title="河南",郑州新闻综合
+hntv://zz1
+
+#EXTINF:-1 tvg-id="kf1" group-title="河南",开封新闻综合
+hntv://kf1
+
+#EXTINF:-1 tvg-id="ly1" group-title="河南",洛阳新闻综合
+hntv://ly1
+
+#EXTINF:-1 tvg-id="pds1" group-title="河南",平顶山新闻综合
+hntv://pds1
+
+#EXTINF:-1 tvg-id="ay1" group-title="河南",安阳新闻综合
+hntv://ay1
+
+#EXTINF:-1 tvg-id="hb1" group-title="河南",鹤壁新闻综合
+hntv://hb1
+
+#EXTINF:-1 tvg-id="xx1" group-title="河南",新乡新闻综合
+hntv://xx1
+
+#EXTINF:-1 tvg-id="jz1" group-title="河南",焦作新闻综合
+hntv://jz1
+
+#EXTINF:-1 tvg-id="py1" group-title="河南",濮阳新闻综合
+hntv://py1
+
+#EXTINF:-1 tvg-id="xc1" group-title="河南",许昌新闻综合
+hntv://xc1
+
+#EXTINF:-1 tvg-id="lh1" group-title="河南",漯河新闻综合
+hntv://lh1
+
+#EXTINF:-1 tvg-id="smx1" group-title="河南",三门峡新闻综合
+hntv://smx1
+
+#EXTINF:-1 tvg-id="ny1" group-title="河南",南阳新闻综合
+hntv://ny1
+
+#EXTINF:-1 tvg-id="sq1" group-title="河南",商丘新闻综合
+hntv://sq1
+
+#EXTINF:-1 tvg-id="xy1" group-title="河南",信阳新闻综合
+hntv://xy1
+
+#EXTINF:-1 tvg-id="zk1" group-title="河南",周口新闻综合
+hntv://zk1
+
+#EXTINF:-1 tvg-id="zmd1" group-title="河南",驻马店新闻综合
+hntv://zmd1
+
+#EXTINF:-1 tvg-id="jy1" group-title="河南",济源新闻综合
+hntv://jy1
